@@ -1,0 +1,15 @@
+{
+  "name": "com.ibm.esolution.plugins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.ibm.com:tss/tss_openfile_dialog_plugin.git"
+  },
+  "author": "duzhiguo@cn.ibm.com",
+  "license": "ISC"
+}

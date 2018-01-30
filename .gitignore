@@ -1,0 +1,6 @@
+/bin/
+/build/
+/gen/
+/.gradle/
+/.settings/
+/**/.DS_Store
