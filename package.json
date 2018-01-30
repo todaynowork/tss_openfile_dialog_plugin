@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.ibm.com:tss/tss_openfile_dialog_plugin.git"
+    "url": "git+https://github.com/daifeil/tss_openfile_dialog_plugin.git"
   },
   "author": "duzhiguo@cn.ibm.com",
   "license": "ISC"
